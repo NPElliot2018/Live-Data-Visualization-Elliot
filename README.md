@@ -18,7 +18,8 @@ Step 4:Add this URL to your embedding application and dashboard is rendered to b
 
 ### b]AWS Grafana
 #### Architecture Overview
-![image](https://github.com/NPElliot2018/Live-Data-Visualization/assets/140134093/d385d582-bfe1-4665-a38f-7defef1b7d63)
+
+![image](https://github.com/NPElliot2018/Live-Data-Visualization-Elliot/assets/140134093/fab9a96b-d350-410b-a204-a014e82282ae)
 
 #### Introduction:
 
